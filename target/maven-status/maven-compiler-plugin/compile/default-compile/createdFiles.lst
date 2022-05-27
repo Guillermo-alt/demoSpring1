@@ -1,0 +1,6 @@
+com\example\demo\dao\IProfesorDao.class
+com\example\demo\entity\Profesor.class
+com\example\demo\controller\ProfesorRestController.class
+com\example\demo\service\ProfesorServiceImpl.class
+com\example\demo\service\IProfesorService.class
+com\example\demo\DemoSpring1Application.class
