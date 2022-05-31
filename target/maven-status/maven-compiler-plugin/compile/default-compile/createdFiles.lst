@@ -7,6 +7,11 @@ com\example\demo\controller\CursoRestController.class
 com\example\demo\mapper\Mapper.class
 com\example\demo\dao\ICursoDao.class
 com\example\demo\dao\IProfesorDao.class
+com\example\demo\service\ILenguajeService.class
+com\example\demo\service\LenguajeServiceImp.class
+com\example\demo\dao\ILenguajeDao.class
+com\example\demo\entity\Lenguaje.class
+com\example\demo\controller\LenguajeController.class
 com\example\demo\controller\ProfesorRestController.class
 com\example\demo\service\IProfesorService.class
 com\example\demo\DemoSpring1Application.class

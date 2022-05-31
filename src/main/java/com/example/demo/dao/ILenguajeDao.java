@@ -7,6 +7,6 @@ import com.example.demo.entity.Lenguaje;
 
 public interface ILenguajeDao extends CrudRepository<Lenguaje, Long>{
 	
-	@Query("select l from lenguaje l where l.id=?1")
-	public Lenguaje findBySQL (Long id);
+	@Query("select l from Lenguaje l where l.id=?1")
+	public Lenguaje findByIdSQL(Long id);
 }
